@@ -1,4 +1,7 @@
 # Minijuego Algebra Para MOOC de Matemáticas básicas
 En este repositorio se encuentra el compilado del contenido interactivo para el curso MOOC de matemáticas básicas, del proyecto 256.
 Para probar la versión actual de este conteido interactivo realice los siguientes pasos:
-1. De click en el botón verde que dice "Clone or Download" y 
+1. De click en el botón verde que dice "Clone or Download" y utilice la opción "Download ZIP". Todos los archivos serán comprimidos y descargados.
+2. El compilado consta de dos versiones desarrolladas en paralelo. Una vez descomprimido el archio, se encontrarán dos carpetas correspondientes a cada versión. La primera "Version_Animada" es una versión ilustrariva del proyecto, donde se muestran algunas de las funcionalidades basadas en una máquina de estados (animaciones). La segunda versión, "Version_Programa", se encuentra una cantidad de funcionalidades de interacción, todas basadas en script (programación orientada a objeto).
+3. En cualquiera de las dos carpetas encontrará dos carpetas más y un archivo HTML llamado "index". Abra este archivo sólo usando el navegador Mozilla Firefox. La razón por la cual no funcionará en Google Chrome es porque usted está abriendo un HTML desde una dirección local, no desde un servidor web. Esto significa que, a menos que el compilado se encuentre subido en la plataforma del curso, el navegador Chrome no permitirá la ejecución del archivo.
+Si usted hace parte del proyecto 256 y es encargada de supervisar este contenido, le será enviado una captura de pantalla donde aparecerá el resultado de todo el proceso.
